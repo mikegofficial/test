@@ -1,5 +1,5 @@
 ---
-original_source: https://www.thekitchn.com/spicy-glass-noodles-with-crispy-pork-yum-woon-sen-23580556
+original_source: https://www.thekitchn.com/thai-recipe-spicy-glass-noodles-with-crispy-pork-175093
 tags: noodles, pork, spicy
 category: entree
 ---
