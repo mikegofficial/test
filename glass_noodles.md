@@ -30,15 +30,16 @@ category: entree
 4. [ ] Combine the noodles, pork, green onions, cilantro, chile, and peanuts in a large bowl. Whisk together the soy sauce, fish sauce, sugar, and lime juice in a small bowl. Taste and add more of any of the ingredients to suit your tastes, then pour the sauce over the noodles. Use tongs or clean hands to lift the noodles, fold them over, and gradually work the ingredients into the noodles. Let stand at least 15 minutes before serving or refrigerate until serving. Garnish each dish with extra peanuts.
 5. [ ] This dish is best on the day that it's made. For serving leftovers, make an extra batch of the sauce and add it to the noodles a few teaspoons at a time, stirring the noodles until they loosen and become slippery again.
 
-## Nutritional Information (per serving, based on 6 servings)
+<div typeof="schema:NutritionInformation">
+  ## Nutritional Information (per serving, based on 6 servings)
+  * <span property="schema:calories">Calories: 247 kcal</span>
+  * <span property="schema:fatContent">Fat: 9.7 g</span>
+    * <span property="schema:saturatedFatContent">Saturated Fat: 3.2 g</span>
+  * <span property="schema:carbohydrateContent">Carbohydrates: 29.5 g</span>
+    * <span property="schema:fiberContent">Fiber: 1.1 g</span>
+    * <span property="schema:sugarContent">Sugars: 5.2 g</span>
+  * <span property="schema:proteinContent">Protein: 9.9 g</span>
+  * <span property="schema:sodiumContent">Sodium: 839.4 mg</span>
 
-* **Calories:** 247 kcal
-* **Fat:** 9.7 g
-    * Saturated Fat: 3.2 g
-* **Carbohydrates:** 29.5 g
-    * Fiber: 1.1 g
-    * Sugars: 5.2 g
-* **Protein:** 9.9 g
-* **Sodium:** 839.4 mg
-
-*Note: Nutritional information is an estimate and may vary based on specific ingredients and preparation methods.*
+  *Note: Nutritional information is an estimate and may vary based on specific ingredients and preparation methods.*
+</div>
