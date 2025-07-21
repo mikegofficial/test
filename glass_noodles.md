@@ -29,3 +29,16 @@ category: entree
 3. [ ] Bring a pot of water to a boil. Drop in the noodles and cook for 1 to 2 minutes, until the noodles are stretchy and tender. Drain and rinse under cool water. Use a pair of kitchen shears to cut the mass of noodles 3 or 4 times — this makes the long noodles easier to eat.
 4. [ ] Combine the noodles, pork, green onions, cilantro, chile, and peanuts in a large bowl. Whisk together the soy sauce, fish sauce, sugar, and lime juice in a small bowl. Taste and add more of any of the ingredients to suit your tastes, then pour the sauce over the noodles. Use tongs or clean hands to lift the noodles, fold them over, and gradually work the ingredients into the noodles. Let stand at least 15 minutes before serving or refrigerate until serving. Garnish each dish with extra peanuts.
 5. [ ] This dish is best on the day that it's made. For serving leftovers, make an extra batch of the sauce and add it to the noodles a few teaspoons at a time, stirring the noodles until they loosen and become slippery again.
+
+## Nutritional Information (per serving, based on 6 servings)
+
+* **Calories:** 247 kcal
+* **Fat:** 9.7 g
+    * Saturated Fat: 3.2 g
+* **Carbohydrates:** 29.5 g
+    * Fiber: 1.1 g
+    * Sugars: 5.2 g
+* **Protein:** 9.9 g
+* **Sodium:** 839.4 mg
+
+*Note: Nutritional information is an estimate and may vary based on specific ingredients and preparation methods.*
