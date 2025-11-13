@@ -3,7 +3,7 @@ original_source: kellyscleankitchen https://instagram.com/reel/DP1aGEXkQ3A
 tags: greek, soup, chicken, lemon
 category: entree
 ---
-# Angie 80085 Greek Soup
+# Avgolemono
 
 ## Serves
 (Serving size not specified)
