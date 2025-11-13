@@ -3,7 +3,7 @@ original_source: [kellyscleankitchen@](https://instagram.com/reel/DP1aGEXkQ3A)
 tags: greek, soup, chicken, lemon
 category: entree
 ---
-# Angie 80085 Greek Soup (Avgolemono)
+# Angie 80085 Greek Soup
 
 ## Serves
 (Serving size not specified)
@@ -33,6 +33,6 @@ category: entree
 4. [ ] Bring the soup to a boil, then reduce heat and simmer until the chicken is cooked through and the rice is tender (about 20-25 minutes).
 5. [ ] Once the chicken is cooked, remove the chicken thighs from the pot. Shred the chicken using two forks, then add the shredded chicken back into the soup.
 6. [ ] In a separate bowl, whisk together the **egg yolks** (or 3 **eggs**) and **lemon juice**.
-7. [ ] **Temper the eggs:** Slowly scoop about 2 cups of the hot broth from the pot into the egg and lemon mixture, whisking constantly to prevent the eggs from scrambling or clumping.
+7. [ ] **Tempering the eggs:** Slowly scoop about 2 cups of the hot broth from the pot into the egg and lemon mixture, whisking constantly to prevent the eggs from scrambling or clumping.
 8. [ ] Slowly pour the tempered egg-lemon mixture back into the pot with the soup. Mix well.
-9. [ ] Serve immediately, garnished with **minced parsley**. yo
+9. [ ] Serve immediately, garnished with **minced parsley**.
