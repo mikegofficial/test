@@ -1,5 +1,5 @@
 ---
-original_source: (Instagram Reel kellyscleankitchen@ https://www.instagram.com/reel/DP1aGEXkQ3A/)
+original_source: (kellyscleankitchen@ https://instagram.com/reel/DP1aGEXkQ3A/)
 tags: greek, soup, chicken, lemon
 category: entree
 ---
